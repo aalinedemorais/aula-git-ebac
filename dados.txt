@@ -1,11 +1,11 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Aline
+-Profissão: Eng Civil
+-Cidade: Erechim/RS
+-O que faz nas horas vaga: Leio
+-Feedback sobre o curso Qualidade de Software: Os exercícios práticos são muito bons.
+-Feedback sobre a plataforma de estudo da EBAC: Não gosto da rolagem da página quando estou assistindo aos vídeos das aulas, sempre tem uma barra superior que encobre uma parte se não usar em tela cheia.
 
 Obrigado!!!
 
